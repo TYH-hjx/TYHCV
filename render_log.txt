@@ -1,0 +1,12 @@
+  [0/2700] 0s scene:void ETA:0min
+  [300/2700] 20s scene:void ETA:7min
+  [600/2700] 40s scene:awaken ETA:8min
+  [900/2700] 60s scene:dialogue ETA:8min
+  [1200/2700] 80s scene:dialogue ETA:8min
+  [1500/2700] 100s scene:dialogue ETA:7min
+  [1800/2700] 120s scene:converge ETA:5min
+  [2100/2700] 140s scene:converge ETA:3min
+  [2400/2700] 160s scene:resolve ETA:2min
+  [2699/2700] 180s scene:resolve ETA:0min
+
+Done: 15.8 MB, 15 min, 2700 frames
